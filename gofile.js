@@ -9,3 +9,5 @@ go.registerCommand('install', async () => {
 
   setTimeout(() => console.log('Build completed successfully!'), 1000)
 })
+
+go.registerCommand('ping', () => 'pong')
