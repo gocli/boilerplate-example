@@ -1,7 +1,7 @@
 {
-  "name": "aha",
-  "devDependencies": {},
-  "dependencies": {
-    "go": "^3.0.0-rc.4"
+  "name": "go-boilerplate-example",
+  "version": "0.0.0",
+  "devDependencies": {
+    "go": "^3.0.0"
   }
 }
